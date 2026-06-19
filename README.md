@@ -4,7 +4,7 @@ A simple web application that fetches random jokes from a public API and display
 
 📸 Project Screenshot
 
-"Random Joke Generator" (20260619_210057-COLLAGE.jpg)
+"Random Joke Generator" (ss.jpg)
 
 🚀 Features
 
