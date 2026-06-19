@@ -1,10 +1,6 @@
 Random Joke Generator
 
-A simple web application that fetches random jokes from a public API and displays them dynamically on the webpage using JavaScript.
-
-📸 Project Screenshot
-
-"Random Joke Generator" (ss.jpg)
+A simple web application that fetches random jokes from a public API and displays them dynamically on the webpage using JavaScript
 
 🚀 Features
 
